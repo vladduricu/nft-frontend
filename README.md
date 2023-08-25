@@ -1,7 +1,7 @@
 # NTT Simple Marketplace
 
 ## Description
-This project is just for tutorial purposes. It is a frontend for a NFT marketplace using a simple contract which allows users to mint NFTs and sell them.
+This project is just for tutorial purposes. It is a frontend for a NFT marketplace using a simple contract which allows users to mint NFTs and sell them. This is based on the tutorial from fireship.io on how to generate an NFT marketplace
 
 ## Project setup
 Before running the project you need to install the dependencies using the following command in the root directory:
